@@ -4,11 +4,11 @@ Simple spider made by python using Scrapy. It will crawl http://quotes.toscrape.
 
 How to use:
 
-	1- Its necesary to have scrapy installed on your machine.
-	I highly recommend you to use Anaconda Open-Source distrubiotion.
-	You can download Anaconda at : https://www.anaconda.com/download/
+1- Its necesary to have scrapy installed on your machine.
+I highly recommend you to use Anaconda Open-Source distrubiotion.
+You can download Anaconda at : https://www.anaconda.com/download/
 
-	after Installing anaconda you can install scrapy with anaconda prompt and use this spider.
+after Installing anaconda you can install scrapy with anaconda prompt and use this spider.
 
 I would be glad to recieve any idea: tahajalili@gmail.com
 
