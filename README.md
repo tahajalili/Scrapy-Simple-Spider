@@ -10,7 +10,7 @@ You can download Anaconda at : https://www.anaconda.com/download/
 
 after Installing anaconda you can install scrapy with anaconda prompt and use this spider.
 
-I would be glad to recieve any idea: tahajalili@gmail.com
+I would be glad to receive any idea: tahajalili@gmail.com
 
 Sincerely, Taha Jalili
 April 2018
