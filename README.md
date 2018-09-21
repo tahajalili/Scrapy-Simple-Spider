@@ -11,6 +11,7 @@ You can download Anaconda at : https://www.anaconda.com/download/
 + You should have packages below installed:
 
 ⋅⋅⋅requests⋅⋅
+⋅⋅⋅requests⋅⋅
 ⋅⋅⋅BeautifulSoup4⋅⋅
 ⋅⋅⋅html.parser(pre-installed on some versions)⋅⋅
 ⋅⋅⋅Scrapy⋅⋅
