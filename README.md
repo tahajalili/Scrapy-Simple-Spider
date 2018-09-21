@@ -1,14 +1,18 @@
-# Scrapy-Simple-Spider
-Simple spider made by python using Scrapy. It will crawl http://quotes.toscrape.com/ and save all quotes of this web page into a JSON file.
+# Web Scraping
+In this repo, you can find some simple web scrapers written in python using common libraries such as Scrapy and Beautiful-Soup4.
 
 
-How to use:
+Important Notes:
 
-1- Its necesary to have scrapy installed on your machine.
++ For some projects,its necesary to have scrapy installed on your machine.
 I highly recommend you to use Anaconda Open-Source distrubiotion.
 You can download Anaconda at : https://www.anaconda.com/download/
 
-after Installing anaconda you can install scrapy with anaconda prompt and use this spider.
++ You should have packages below installed:
+...requests
+...BeautifulSoup4
+...html.parser(pre-installed on some versions)
+...Scrapy
 
 I would be glad to receive any idea: tahajalili@gmail.com
 
